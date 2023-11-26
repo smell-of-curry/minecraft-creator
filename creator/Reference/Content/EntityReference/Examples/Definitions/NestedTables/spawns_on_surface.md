@@ -8,4 +8,7 @@ ms.service: minecraft-bedrock-edition
 
 # Entity Documentation - minecraft:spawns_on_surface
 
+> [!WARNING]
+> This blocks spawning in the nether
+
 Allows an entity to spawn on the ground. Adding the component causes it to be true, while removing it causes the entity to stop spawning.
